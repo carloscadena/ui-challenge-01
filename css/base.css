@@ -1,0 +1,15 @@
+* {
+  margin: 0 auto;
+}
+
+#main-container {
+  /* display: flex;
+  flex-direction: row; */
+  width: 481px
+}
+
+@media (min-width: 768px) {
+  .boxes {
+    background-color: black;
+  }
+}
