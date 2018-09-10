@@ -1,15 +1,11 @@
 * {
   margin: 0 auto;
+  font-size: 1.2em;    
+  text-align: center;
 }
 
-#main-container {
-  /* display: flex;
-  flex-direction: row; */
-  width: 481px
-}
-
-@media (min-width: 768px) {
-  .boxes {
-    background-color: black;
-  }
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
